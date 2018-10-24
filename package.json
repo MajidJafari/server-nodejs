@@ -1,0 +1,24 @@
+{
+  "name": "server-nodejs",
+  "version": "0.0.8",
+  "description": "A Node.js test server app",
+  "main": "server2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Majid Jafari",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajidJafari/server-nodejs.git"
+  },
+  "keywords": [
+    "Node.js",
+    "server",
+    "unity3D"
+  ],
+  "bugs": {
+    "url": "https://github.com/MajidJafari/server-nodejs/issues"
+  },
+  "homepage": "https://github.com/MajidJafari/server-nodejs#readme"
+}
